@@ -16,7 +16,6 @@ function App() {
       text,
     }))
 
-
     setText("")
   };
 
